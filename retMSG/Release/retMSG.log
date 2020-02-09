@@ -1,0 +1,6 @@
+﻿  main.cpp
+LINK : warning LNK4044: unrecognized option '/MANIFESTUAC:level='asInvoker' uiAccess='false''; ignored
+LINK : warning LNK4044: unrecognized option '/DYNAMICBASE'; ignored
+  Generating code
+  Finished generating code
+  retMSG.vcxproj -> E:\retBox\Release\retMSG.exe
